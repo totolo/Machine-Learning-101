@@ -1,0 +1,11 @@
+State,Family Size,Annual Income,Purchased
+New York,5,115000,No
+California,4,50000,Yes
+New Jersey,3,75000,No
+California,5,48500,No
+New York,2,,Yes
+New Jersey,4,60000,Yes
+California,,100000,No
+New York,3,91000,Yes
+New Jersey,6,73400,No
+California,5,68000,Yes
