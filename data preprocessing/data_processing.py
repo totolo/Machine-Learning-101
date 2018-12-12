@@ -3,14 +3,15 @@
 """
 Created on Mon Nov 26 02:54:58 2018
 
-@author: nenshu
+@author: Hua Wang
 """
 
-
+# Importing libraries
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
+# Importing csv data
 dataset = pd.read_csv("Data.csv")
 X = dataset.iloc[:, :-1].values
 y = dataset.iloc[:, 3].values
